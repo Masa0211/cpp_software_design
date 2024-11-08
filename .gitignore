@@ -1,5 +1,5 @@
-./*/.vs
-./*/build
-./*/x64
+*/.vs
+*/build
+*/x64
 *.filters
 *.user
